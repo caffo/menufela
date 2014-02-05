@@ -11,4 +11,6 @@ A little SIMBL hack that enables you to toggle the menubar on/off and other thin
 * draws border in focused window
 * focus follows mouse
 
+## le screenshot
+
 ![Screenshot](https://dl.dropboxusercontent.com/u/8178/Screenshots/_xn946eadm_v.png)
